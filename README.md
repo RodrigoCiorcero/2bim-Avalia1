@@ -26,6 +26,6 @@ Variável de ambiente: `GOOGLE_CLIENT_ID`.
 
 ## Identificação
 
-Nome: Rodrigo Ciorcero
-RA: 
-URL: https://
+Nome: Rodrigo Minhuk Ciorcero
+RA: 2026109390
+URL: https://2bim-avalia1-bnj.pages.dev
